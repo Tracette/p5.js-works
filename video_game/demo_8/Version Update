@@ -1,0 +1,2 @@
+I have added a new scene change rule in this version. When player hits dog, quarantine hospital, covid test healthcare staff or virus and dies, 
+the last collision obstacle will be detected and the scene will change accordingly.
